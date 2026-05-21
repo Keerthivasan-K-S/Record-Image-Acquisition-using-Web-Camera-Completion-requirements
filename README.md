@@ -129,18 +129,20 @@ Captured image is saved as `captured_image.jpg`
 
 ### ii) Display the video
 Live webcam video is displayed
+
 <img width="507" height="382" alt="image" src="https://github.com/user-attachments/assets/d77e18f4-374b-46e2-9791-35e7e2d84858" />
 
 
 ### iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
+
 <img width="508" height="400" alt="image" src="https://github.com/user-attachments/assets/a58e2817-56cd-4054-99e1-88c2f4ded60b" />
 
 
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
-<img width="508" height="400" alt="image" src="https://github.com/user-attachments/assets/be8bbfef-cd46-4184-8c4c-f842977cfd39" />
 
+<img width="508" height="400" alt="image" src="https://github.com/user-attachments/assets/be8bbfef-cd46-4184-8c4c-f842977cfd39" />
 
 ---
 
